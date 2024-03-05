@@ -16,7 +16,7 @@
                 오라클 전용 구문           |             ANSI 구문
     ---------------------------------------------------------------------------
                 등가 조인                 |             내부조인       
-                (EQULA JOIN)            |  (INNER JOIN => JOIN USING/ON)
+                (EQUAL JOIN)            |  (INNER JOIN => JOIN USING/ON)
     ---------------------------------------------------------------------------
                 포괄 조인                 |   왼쪽 외부 조인 (LEFT OUTER JOIN)
                 (LEFT OUTER)            |   오른쪽 외부 조인 (RIGHT OUTER JOIN)
